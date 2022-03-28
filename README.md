@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ClementEliat
+- 👀 I’m interested in Materials Science and Electrochemistry
+- 🌱 I’m currently working in France for EDF R&D on Battery ageing modelisation
+- 📫 How to reach me : clement.eliat@icloud.com
